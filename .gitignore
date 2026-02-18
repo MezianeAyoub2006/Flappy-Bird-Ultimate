@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Assets
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.wav
+*.mp3
+*.ogg
+*.ttf
+*.otf
+
+

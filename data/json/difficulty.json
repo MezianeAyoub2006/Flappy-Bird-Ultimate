@@ -1,0 +1,43 @@
+{
+    "easy" : {
+        "game_speed" : 3,
+        "gap" : 170,
+        "gravity" : 0.6,
+        "jump" : 9
+    },
+
+    "normal" : {
+        "game_speed" : 3,
+        "gap" : 140,
+        "gravity" : 0.7,
+        "jump" : 9.5
+    },
+
+    "hard" : {
+        "game_speed" : 5,
+        "gap" : 140,
+        "gravity" : 1,
+        "jump" : 12
+    },
+
+    "extreme" : {
+        "game_speed" : 6.5,
+        "gap" : 150,
+        "gravity" : 1.15,
+        "jump" : 14
+    },
+
+    "unreal" : {
+        "game_speed" : 8.5,
+        "gap" : 160,
+        "gravity" : 1.6,
+        "jump" : 17
+    },
+    
+    "galactic" : {
+        "game_speed" : 2,
+        "gap" : 70,
+        "gravity" : 0.5,
+        "jump" : 5
+    }
+}
